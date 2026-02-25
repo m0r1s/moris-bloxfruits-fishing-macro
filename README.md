@@ -1,2 +1,2 @@
 # moris-bloxfruit-fishing-macro
-A Python-based Blox Fruits fishing macro.
+A Python-based Bloxfruits fishing macro.
