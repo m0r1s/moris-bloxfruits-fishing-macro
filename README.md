@@ -9,7 +9,7 @@ A Python-based Bloxfruits fishing macro.
 
 - **Fully Automated Casting**: Automatically casts the rod
 - **Fully Automated Reeling**: Automatically reels the fish in 
-- **Cycle Tracking**: Persistent cycle counter with GUI display (resets per reload)
+- **Cycle Tracking**: Persistent cycle counter with GUI display
  
 ---
 
