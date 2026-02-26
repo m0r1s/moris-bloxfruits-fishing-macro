@@ -8,14 +8,12 @@ A Python-based Bloxfruits fishing macro.
 ## GUI Screenshot
 
 <img width="537" height="262" alt="image-Photoroom" src="https://github.com/user-attachments/assets/82918429-479a-4ddd-aa74-a79d1efafbc7" />
- 
----
 
 ## Features
 
-- **Fully Automated Casting**: Automatically casts the rod
-- **Fully Automated Reeling**: Automatically reels the fish in 
-- **Cycle Tracking**: Persistent cycle counter with GUI display
+- **Automated Fishing Loop**: Automatically casts, reels and loops the Fishing process
+- **Cycle Tracking**: Persistent cycle counter
+- **Time Elapsed**: Time Elapsed since the macro started
  
 ---
 
