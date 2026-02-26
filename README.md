@@ -5,6 +5,12 @@ A Python-based Bloxfruits fishing macro.
 
 ---
 
+## GUI Screenshot
+
+<img width="537" height="262" alt="image-Photoroom" src="https://github.com/user-attachments/assets/82918429-479a-4ddd-aa74-a79d1efafbc7" />
+ 
+---
+
 ## Features
 
 - **Fully Automated Casting**: Automatically casts the rod
