@@ -1,5 +1,5 @@
-# moris Garden Horizons macro
-A Python-based Garden Horizons macro.
+# moris Bloxfruits fishing macro
+A Python-based Bloxfruits fishing macro.
 
 **Join the discord:** https://discord.com/invite/2fraBuhe3m
 
