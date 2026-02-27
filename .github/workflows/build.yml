@@ -25,7 +25,7 @@ jobs:
         run: pip install pyinstaller pywin32 keyboard pyautogui pydirectinput
 
       - name: Build EXE
-        run: pyinstaller --onefile --noconsole --icon=logo.ico moris_bloxfruits_fishing_macro.py
+        run: pyinstaller --onefile --noconsole --icon=icon.ico --add-data "icon.ico;." moris_bloxfruits_fishing_macro.py
 
       - name: Upload to release
         uses: softprops/action-gh-release@v2
