@@ -1,3 +1,6 @@
+# moris Garden Horizons macro
+A Python-based Garden Horizons macro.
+
 **Join the discord:** https://discord.com/invite/2fraBuhe3m
 
 ---
