@@ -7,7 +7,7 @@ A Python-based Bloxfruits fishing macro.
 
 ## GUI Screenshot
  
-<img width="557" height="409" alt="image-Photoroom (2)" src="https://github.com/user-attachments/assets/2aaaa20d-3973-470a-8c96-b9a26bf0607c" />
+<img width="521" height="335" alt="image-Photoroom (2) (1)" src="https://github.com/user-attachments/assets/d178de87-f856-4c0f-b51a-b53756791eca" />
 
 ---
 
