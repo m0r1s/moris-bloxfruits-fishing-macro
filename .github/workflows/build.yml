@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pyinstaller
+        run: pip install pyinstaller pywin32 keyboard pyautogui pydirectinput
 
       - name: Build EXE
         run: pyinstaller --onefile moris_bloxfruits_fishing_macro.py
