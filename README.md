@@ -6,8 +6,8 @@ A Python-based Bloxfruits fishing macro.
 ---
 
 ## GUI Screenshot
-
-<img width="557" height="409" alt="image-Photoroom (2)" src="https://github.com/user-attachments/assets/2ad59959-ff75-4031-a611-b5682b6f0f42" />
+ 
+<img width="557" height="409" alt="image" src="https://github.com/user-attachments/assets/a5fdfe30-d339-4b74-bf7d-76e97a5b341b" />
 
 ---
 
