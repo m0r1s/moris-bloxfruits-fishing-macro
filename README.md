@@ -7,22 +7,26 @@ A Python-based Bloxfruits fishing macro.
 
 ## GUI Screenshot
 
-<img width="537" height="262" alt="image-Photoroom" src="https://github.com/user-attachments/assets/82918429-479a-4ddd-aa74-a79d1efafbc7" />
+<img width="557" height="409" alt="image-Photoroom (2)" src="https://github.com/user-attachments/assets/2ad59959-ff75-4031-a611-b5682b6f0f42" />
 
 ---
 
 ## Features
 
-- **Automated Fishing Loop**: Automatically casts, reels and loops the Fishing process
-- **Cycle Tracking**: Persistent cycle counter
-- **Time Elapsed**: Time Elapsed since the macro started
+- **Automatic Seed Purchasing**: Automatically purchases in GUI selected Seeds.
+- **Automatic Tool Purchasing**: Automatically purchases in GUI selected Tools.
+- **Fast Collect**: Hold E to collect everything nearby in light-speed.
+- **Shop Timer**: The in-game shop Timer displayed in the GUI.
+- **Changeable Keybinds**: Changeable macro Hotkeys.
+- **Custom UI Navigation Key**: All UI Navigation Hotkey Support.
+- **Universal Resolution Support**: The macro supports all resolutions.
  
 ---
 
 ### What You Need
 
 - Python (https://www.python.org/downloads/)
-- moris Bloxfruits fishing macro.exe
+- moris_garden_horizons_macro.exe
 - Roblox running
 
 ### Controls
@@ -31,13 +35,14 @@ A Python-based Bloxfruits fishing macro.
 |-----|--------------|
 | `F1` | Start the macro |
 | `F2` | Reload the macro |
+| `F3` | Fast Collect Toggle |
 
 ### Getting Started
 
-1. Open Roblox and join Bloxfruits
-2. Navigate to a fishable location
-3. Hit `F1` to start
-4. The script will resize your Roblox window and start fishing
+1. Open Roblox and join Garden Horizons
+2. Hit `F1` to start
+3. The script will resize your Roblox window and start the auto-purchasing loop
+4. Every Shop Refresh the macro goes back to the Shop to buy the Selected Seeds/Tools
 
 ---
 
