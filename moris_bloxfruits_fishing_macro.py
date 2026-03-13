@@ -41,7 +41,6 @@ FISH_BAR_LEFT = 260
 FISH_BAR_RIGHT = 695
 FISH_BAR_Y = 492
 FISH_COLOR_TOLERANCE = 10
-CONTROL_BAR_WIDTH = 55
 
 OVERLAY_OFFSET_Y = 30
 OVERLAY_HEIGHT = 12
@@ -184,9 +183,6 @@ def scan_row():
             fish_right = FISH_BAR_LEFT + i
         if bar_right is None and not is_fish(r, g, b) and is_control_bar(r, g, b):
             bar_right = FISH_BAR_LEFT + i
-    if bar_left is not None and bar_right is not None:
-        if bar_right - bar_left > CONTROL_BAR_WIDTH * 1.5:
-            bar_right = bar_left + CONTROL_BAR_WIDTH
     return bar_left, bar_right, fish_left, fish_right
 
 
